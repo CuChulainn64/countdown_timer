@@ -13,3 +13,5 @@ This alarm can be replaced with any .wav file as long as it's named "alarm.wav" 
 on the program's directory.
 
 If no alarm.wav file is found, the program will instead play the windows beep sound.
+
+The included alarm sound effect was downloaded from https://freesound.org/s/258193/
