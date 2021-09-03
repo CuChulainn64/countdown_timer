@@ -7,3 +7,9 @@ for example, you enter 9:00pm at 9:05pm, the timer will count down to the target
 
 Time is outputed to the file "Timer.txt" on each tick. Add that file as a text source 
 to include it on stream.
+
+When the timer reaches 0 an alarm will sound, if the "Use alarm" check box is checked.
+This alarm can be replaced with any .wav file as long as it's named "alarm.wav" and placed
+on the program's directory.
+
+If no alarm.wav file is found, the program will instead play the windows beep sound.
